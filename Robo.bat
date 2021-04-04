@@ -6,7 +6,7 @@ REM variavel que vai ser o contador
 set ID=0 
 
 REM variavel qie vai ser o nome do que você deseja saber se existe
-set CL=Lwart
+set CL=champs
 
 REM comando para definir o 7zip como compactador
 set sevenzip=
